@@ -1,6 +1,9 @@
 # Spring_AWS_Book_Ex
 Spring + AWS 책 공부
 
+- book name: 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+- refer to: https://github.com/jojoldu/freelec-springboot2-webservice
+
 ## 개발환경
 - Windows 10
 - JDK 11
