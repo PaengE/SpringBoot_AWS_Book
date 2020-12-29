@@ -1,7 +1,6 @@
 package com.yneerg.admin.book.web;
 
-import com.yneerg.admin.book.domain.posts.PostsRepository;
-import com.yneerg.admin.book.service.posts.PostsService;
+import com.yneerg.admin.book.service.PostsService;
 import com.yneerg.admin.book.web.dto.PostsResponseDto;
 import com.yneerg.admin.book.web.dto.PostsSaveRequestDto;
 import com.yneerg.admin.book.web.dto.PostsUpdateRequestDto;

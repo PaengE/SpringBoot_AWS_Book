@@ -1,4 +1,4 @@
-package com.yneerg.admin.book.service.posts;
+package com.yneerg.admin.book.service;
 
 import com.yneerg.admin.book.domain.posts.Posts;
 import com.yneerg.admin.book.domain.posts.PostsRepository;

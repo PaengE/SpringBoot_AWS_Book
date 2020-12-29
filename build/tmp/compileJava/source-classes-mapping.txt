@@ -6,6 +6,18 @@ com/yneerg/admin/book/web/HelloController.java
  com.yneerg.admin.book.web.HelloController
 com/yneerg/admin/book/domain/posts/PostsRepository.java
  com.yneerg.admin.book.domain.posts.PostsRepository
+com/yneerg/admin/book/web/dto/PostsResponseDto.java
+ com.yneerg.admin.book.web.dto.PostsResponseDto
+com/yneerg/admin/book/web/dto/PostsSaveRequestDto.java
+ com.yneerg.admin.book.web.dto.PostsSaveRequestDto
+ com.yneerg.admin.book.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/yneerg/admin/book/service/posts/PostsService.java
+ com.yneerg.admin.book.service.posts.PostsService
+com/yneerg/admin/book/web/PostsApiController.java
+ com.yneerg.admin.book.web.PostsApiController
 com/yneerg/admin/book/domain/posts/Posts.java
  com.yneerg.admin.book.domain.posts.Posts
  com.yneerg.admin.book.domain.posts.Posts$PostsBuilder
+com/yneerg/admin/book/web/dto/PostsUpdateRequestDto.java
+ com.yneerg.admin.book.web.dto.PostsUpdateRequestDto
+ com.yneerg.admin.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
