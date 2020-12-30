@@ -6,3 +6,5 @@ com/yneerg/admin/book/domain/posts/PostsRepositoryTest.java
  com.yneerg.admin.book.domain.posts.PostsRepositoryTest
 com/yneerg/admin/book/web/PostsApiControllerTest.java
  com.yneerg.admin.book.web.PostsApiControllerTest
+com/yneerg/admin/book/web/IndexControllerTest.java
+ com.yneerg.admin.book.web.IndexControllerTest

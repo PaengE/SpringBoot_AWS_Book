@@ -23,3 +23,5 @@ com/yneerg/admin/book/domain/posts/Posts.java
  com.yneerg.admin.book.domain.posts.Posts$PostsBuilder
 com/yneerg/admin/book/service/PostsService.java
  com.yneerg.admin.book.service.PostsService
+com/yneerg/admin/book/web/IndexController.java
+ com.yneerg.admin.book.web.IndexController
