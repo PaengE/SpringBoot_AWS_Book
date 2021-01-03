@@ -20,8 +20,8 @@ com/yneerg/admin/book/service/PostsService.java
  com.yneerg.admin.book.service.PostsService
 com/yneerg/admin/book/web/dto/HelloResponseDto.java
  com.yneerg.admin.book.web.dto.HelloResponseDto
+com/yneerg/admin/book/web/IndexController.java
+ com.yneerg.admin.book.web.IndexController
 com/yneerg/admin/book/web/dto/PostsUpdateRequestDto.java
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
-com/yneerg/admin/book/web/IndexController.java
- com.yneerg.admin.book.web.IndexController

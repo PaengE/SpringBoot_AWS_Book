@@ -2,9 +2,9 @@ com/yneerg/admin/book/web/HelloControllerTest.java
  com.yneerg.admin.book.web.HelloControllerTest
 com/yneerg/admin/book/web/dto/HelloResponseDtoTest.java
  com.yneerg.admin.book.web.dto.HelloResponseDtoTest
+com/yneerg/admin/book/web/IndexControllerTest.java
+ com.yneerg.admin.book.web.IndexControllerTest
 com/yneerg/admin/book/domain/posts/PostsRepositoryTest.java
  com.yneerg.admin.book.domain.posts.PostsRepositoryTest
 com/yneerg/admin/book/web/PostsApiControllerTest.java
  com.yneerg.admin.book.web.PostsApiControllerTest
-com/yneerg/admin/book/web/IndexControllerTest.java
- com.yneerg.admin.book.web.IndexControllerTest
