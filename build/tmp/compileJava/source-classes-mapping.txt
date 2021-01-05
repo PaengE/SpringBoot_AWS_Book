@@ -1,12 +1,27 @@
+com/yneerg/admin/book/domain/user/UserRepository.java
+ com.yneerg.admin.book.domain.user.UserRepository
 com/yneerg/admin/book/web/dto/PostsResponseDto.java
  com.yneerg.admin.book.web.dto.PostsResponseDto
+com/yneerg/admin/book/config/auth/CustomOAuth2UserService.java
+ com.yneerg.admin.book.config.auth.CustomOAuth2UserService
 com/yneerg/admin/book/domain/posts/PostsRepository.java
  com.yneerg.admin.book.domain.posts.PostsRepository
+com/yneerg/admin/book/domain/user/Role.java
+ com.yneerg.admin.book.domain.user.Role
+com/yneerg/admin/book/config/auth/dto/SessionUser.java
+ com.yneerg.admin.book.config.auth.dto.SessionUser
 com/yneerg/admin/book/domain/BaseTimeEntity.java
  com.yneerg.admin.book.domain.BaseTimeEntity
 com/yneerg/admin/book/web/dto/PostsSaveRequestDto.java
  com.yneerg.admin.book.web.dto.PostsSaveRequestDto
  com.yneerg.admin.book.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/yneerg/admin/book/web/HelloController.java
+ com.yneerg.admin.book.web.HelloController
+com/yneerg/admin/book/domain/user/User.java
+ com.yneerg.admin.book.domain.user.User
+ com.yneerg.admin.book.domain.user.User$UserBuilder
+com/yneerg/admin/book/config/auth/SecurityConfig.java
+ com.yneerg.admin.book.config.auth.SecurityConfig
 com/yneerg/admin/book/Application.java
  com.yneerg.admin.book.Application
 com/yneerg/admin/book/web/PostsApiController.java
@@ -14,14 +29,15 @@ com/yneerg/admin/book/web/PostsApiController.java
 com/yneerg/admin/book/domain/posts/Posts.java
  com.yneerg.admin.book.domain.posts.Posts
  com.yneerg.admin.book.domain.posts.Posts$PostsBuilder
-com/yneerg/admin/book/web/HelloController.java
- com.yneerg.admin.book.web.HelloController
 com/yneerg/admin/book/service/PostsService.java
  com.yneerg.admin.book.service.PostsService
 com/yneerg/admin/book/web/dto/HelloResponseDto.java
  com.yneerg.admin.book.web.dto.HelloResponseDto
-com/yneerg/admin/book/web/IndexController.java
- com.yneerg.admin.book.web.IndexController
+com/yneerg/admin/book/config/auth/dto/OAuthAttributes.java
+ com.yneerg.admin.book.config.auth.dto.OAuthAttributes
+ com.yneerg.admin.book.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
 com/yneerg/admin/book/web/dto/PostsUpdateRequestDto.java
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/yneerg/admin/book/web/IndexController.java
+ com.yneerg.admin.book.web.IndexController
