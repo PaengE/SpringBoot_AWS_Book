@@ -39,5 +39,11 @@ com/yneerg/admin/book/config/auth/dto/OAuthAttributes.java
 com/yneerg/admin/book/web/dto/PostsUpdateRequestDto.java
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/yneerg/admin/book/config/auth/LoginUserArgumentResolver.java
+ com.yneerg.admin.book.config.auth.LoginUserArgumentResolver
+com/yneerg/admin/book/config/auth/LoginUser.java
+ com.yneerg.admin.book.config.auth.LoginUser
 com/yneerg/admin/book/web/IndexController.java
  com.yneerg.admin.book.web.IndexController
+com/yneerg/admin/book/config/WebConfig.java
+ com.yneerg.admin.book.config.WebConfig
