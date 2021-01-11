@@ -22,8 +22,8 @@ com/yneerg/admin/book/domain/user/User.java
  com.yneerg.admin.book.domain.user.User$UserBuilder
 com/yneerg/admin/book/config/auth/SecurityConfig.java
  com.yneerg.admin.book.config.auth.SecurityConfig
-com/yneerg/admin/book/Application.java
- com.yneerg.admin.book.Application
+com/yneerg/admin/book/config/WebConfig.java
+ com.yneerg.admin.book.config.WebConfig
 com/yneerg/admin/book/web/PostsApiController.java
  com.yneerg.admin.book.web.PostsApiController
 com/yneerg/admin/book/domain/posts/Posts.java
@@ -45,5 +45,7 @@ com/yneerg/admin/book/config/auth/LoginUser.java
  com.yneerg.admin.book.config.auth.LoginUser
 com/yneerg/admin/book/web/IndexController.java
  com.yneerg.admin.book.web.IndexController
-com/yneerg/admin/book/config/WebConfig.java
- com.yneerg.admin.book.config.WebConfig
+com/yneerg/admin/book/config/JpaConfig.java
+ com.yneerg.admin.book.config.JpaConfig
+com/yneerg/admin/book/Application.java
+ com.yneerg.admin.book.Application
