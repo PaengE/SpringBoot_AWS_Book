@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.yneerg.admin.book.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-11T13:22:15" hostname="DESKTOP-R0OVR4N" time="0.006">
+  <properties/>
+  <testcase name="lombok_test()" classname="com.yneerg.admin.book.web.dto.HelloResponseDtoTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
