@@ -12,7 +12,11 @@ echo "> 현재 구동중인 애플리케이션 pid 확인"
 
 CURRENT_PID=$(pgrep -fl Spring_AWS_Book_Ex | grep jar | awk '{print $1}')
 
-echo "현재 구동중인 어플리케이션 pid: $CURRENT_PID"
+#echo "현재 구동중인 어플리케이션 pid: $CURRENT_PID"
+echo "> Check the application ID running now"
+CURRENT_PID=$(pgrep -f ${PROJECT_PID}.*.jar)
+echo "> The application ID running now: $CURRENT_PID"
+
 
 if [ -z "$CURRENT_PID" ]; then
     echo "> 현재 구동중인 애플리케이션이 없으므로 종료하지 않습니다."
