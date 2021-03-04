@@ -8,3 +8,7 @@ com/yneerg/admin/book/domain/posts/PostsRepositoryTest.java
  com.yneerg.admin.book.domain.posts.PostsRepositoryTest
 com/yneerg/admin/book/web/PostsApiControllerTest.java
  com.yneerg.admin.book.web.PostsApiControllerTest
+com/yneerg/admin/book/web/ProfileControllerTest.java
+ com.yneerg.admin.book.web.ProfileControllerTest
+com/yneerg/admin/book/web/ProfileControllerUnitTest.java
+ com.yneerg.admin.book.web.ProfileControllerUnitTest

@@ -49,3 +49,5 @@ com/yneerg/admin/book/web/IndexController.java
 com/yneerg/admin/book/web/dto/PostsUpdateRequestDto.java
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto
  com.yneerg.admin.book.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
+com/yneerg/admin/book/web/ProfileController.java
+ com.yneerg.admin.book.web.ProfileController
