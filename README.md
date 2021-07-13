@@ -1,4 +1,4 @@
-# SpringBoot_AWS_Book_Ex
+# SpringBoot_AWS_Book
 SpringBoot + AWS 24시간 무중단 배포 웹서비스
 
 - Book name: 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
